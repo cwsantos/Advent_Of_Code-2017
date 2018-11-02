@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class spiralMemory {
+public class day_3 {
 
 	static Scanner scan = new Scanner(System.in);
 	

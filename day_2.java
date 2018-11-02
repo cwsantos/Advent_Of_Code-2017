@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class corruptionChecksum {
+public class day_2 {
 
 	static Scanner scan = new Scanner(System.in);
 	static Random rand = new Random();

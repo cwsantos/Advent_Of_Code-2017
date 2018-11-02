@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class inverseCaptcha {
+public class day_1 {
 	
 	static Scanner scan = new Scanner(System.in);
 	
