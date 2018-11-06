@@ -26,7 +26,7 @@ public class day_2 {
 		begin();
 	}
 	
-	/* Method to begin Corrupted Checksum experiment */
+	/* Begins experiment */
 	public static void begin(){
 		int input = 3;	// Default size
 		int[][] spreadsheet = null;
@@ -36,7 +36,7 @@ public class day_2 {
 		System.out.println("The check sum of the sheet is: " + checkSum(spreadsheet));
 	}
 	
-	/* Method to calculate the checksum of the spreadsheet */
+	/* Calculates the checksum of the spreadsheet */
 	public static int checkSum(int[][] spreadsheet){
 		int sum = 0;
 		for (int i = 0; i < spreadsheet.length; i++){
@@ -47,7 +47,7 @@ public class day_2 {
 		return sum;
 	}
 	
-	/* Method to generate a random spreadsheet for the experiment */
+	/* Generates a random spreadsheet for the experiment, as a test unit */
 	public static int[][] ranList(int size){
 		int[][] spreadsheet = new int[size][size];
 		for (int i = 0; i < size; i++){
