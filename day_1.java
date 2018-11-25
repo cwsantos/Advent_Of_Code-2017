@@ -10,6 +10,7 @@ public class day_1 {
 	 * Inverse Captcha problem is when given a list of numbers as input a sum is
 	 * calculated by every number that matches the next number in line. This input
 	 * is also to be considered a circular list.
+	 * 
 	 * Ex.	1122 gives a sum of 3 (1+2)
 	 * 		1111 gives a sum of 4 (1+1+1+1)
 	 * 		91212129 gives a sum of 9 (list to be considered circular)

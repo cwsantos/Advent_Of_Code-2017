@@ -5,7 +5,7 @@ public class day_3 {
 	static Scanner scan = new Scanner(System.in);
 	
 	/* TITLE: Spiral Memory
-	 * STATUS: Currently being worked on
+	 * STATUS: A tad bit stuck
 	 * 
 	 * Spiral Memory is the idea that memory is stored in an infinite spiral
 	 * shape like storage. Starting from the center of the spiral memory, and

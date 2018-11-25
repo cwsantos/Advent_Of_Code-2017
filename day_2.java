@@ -13,7 +13,7 @@ public class day_2 {
 	 * spreadsheet. It takes in an input of 'N' to determine the size of the
 	 * N x N spreadsheet.
 	 * 
-	 * Note:The '-' is to symbolize no data in that slot, or a 0
+	 * Note: The '-' is to symbolize no data in that slot, or a 0
 	 * 
 	 * concerning the checksum.
 	 * Ex.  [2, 6, 10] = 2 + 6 + 10 = 18
