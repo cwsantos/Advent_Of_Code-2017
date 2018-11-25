@@ -4,7 +4,7 @@ public class day_3 {
 
 	static Scanner scan = new Scanner(System.in);
 	
-	/* FILE: Spiral Memory
+	/* TITLE: Spiral Memory
 	 * STATUS: Currently being worked on
 	 * 
 	 * Spiral Memory is the idea that memory is stored in an infinite spiral
