@@ -5,7 +5,7 @@ public class day_2 {
 	static Scanner scan = new Scanner(System.in);
 	static Random rand = new Random();
 
-	/* FILE: Corruption Checksum
+	/* TITLE: Corruption Checksum
 	 * STATUS: Completed
 	 * 
 	 * Corruption Checksum is responsible for calculating the checksum of each
