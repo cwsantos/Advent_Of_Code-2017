@@ -4,7 +4,7 @@ public class day_1 {
 	
 	static Scanner scan = new Scanner(System.in);
 	
-	/* FILE: Inverse Captcha
+	/* TITLE: Inverse Captcha
 	 * STATUS: Completed
 	 * 
 	 * Inverse Captcha problem is when given a list of numbers as input a sum is
